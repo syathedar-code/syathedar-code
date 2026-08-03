@@ -109,7 +109,7 @@ I'm drawn to problems that sit at the intersection of code, data, and security â
 
 ## GitHub Analytics
 <div align="center">
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=syathedar-code&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=syathedar-code&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" />
 </div>
 
 
